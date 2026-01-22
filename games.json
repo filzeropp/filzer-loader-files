@@ -39,7 +39,7 @@
     "status": "normal",
     "statusColor": "#28a745"
   },
- {
+  {
     "id": "6",
     "title": "Facebook",
     "packageName": "com.facebook.katana",
