@@ -3,7 +3,7 @@
      "id": "1",
     "title": "PUBG Mobile (Global)",
     "packageName": "com.tencent.ig",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "status": "normal",
     "statusColor": "#28a745"
   },
@@ -11,7 +11,7 @@
    "id": "2",
     "title": "PUBG Mobile (VNG)",
     "packageName": "com.vng.pubgmobile",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "status": "normal",
     "statusColor": "#28a745"
   },
@@ -19,7 +19,7 @@
     "id": "3",
     "title": "PUBG Mobile (KR)",
     "packageName": "com.pubg.krmobile",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "status": "normal",
     "statusColor": "#28a745"
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "title": "PUBG Mobile (TW)",
     "packageName": "com.rekoo.pubgm",
-    "version": "4.2.0",
+    "version": "4.3.0",
     "status": "normal",
     "statusColor": "#28a745"
   },
