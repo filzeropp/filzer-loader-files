@@ -2,7 +2,7 @@
   "libs": [
     {
       "name": "libFilzer.so",
-      "version": "6.1",
+      "version": "6.2",
       "link": "https://raw.githubusercontent.com/filzeropp/filzer-loader-files/main/libs/libFilzer.so"
     }
   ]
